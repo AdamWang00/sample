@@ -1,0 +1,20 @@
+div {
+	margin: auto;
+	text-align: center;
+}
+
+.myPinkDiv {
+	margin-top: 10pt;
+	margin-bottom: 10pt;
+	padding: 10pt;
+	background-color: #FFD5D5;
+	/*
+	border: 5px solid #FF8585;
+	border-radius: 100px;
+	*/
+}
+
+#myText {
+	color: green;
+	font-size: 20pt;
+}
